@@ -18,8 +18,8 @@ const App = () => (
         <div className={`${styles.boxWidth}`}></div>
             <Stats/>
             <CTA/>
-            <Footer/>
-      </div>
+            </div>
+      <Footer/>
     </div>
   );
 
