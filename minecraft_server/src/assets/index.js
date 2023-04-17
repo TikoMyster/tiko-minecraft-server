@@ -23,6 +23,8 @@ import twitter from "./twitter.svg";
 import people01 from "./people01.png";
 import people02 from "./people02.png";
 import people03 from "./people03.png";
+import github from "./iconmonstr-github-1.svg"
+import portfolio from "./iconmonstr-folder-open-thin.svg"
 
 export {
   airbnb,
@@ -50,4 +52,6 @@ export {
   people01,
   people02,
   people03,
+  github,
+  portfolio,
 };

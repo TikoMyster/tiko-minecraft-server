@@ -1,4 +1,4 @@
-import { people01, people02, people03, facebook, instagram, linkedin, twitter, airbnb, binance, coinbase, dropbox, send, shield, star  } from "../assets";
+import { people01, people02, people03, facebook, instagram, github, portfolio, linkedin, twitter, airbnb, binance, coinbase, dropbox, send, shield, star  } from "../assets";
 
 export const navLinks = [
   {
@@ -6,16 +6,16 @@ export const navLinks = [
     title: "Home",
   },
   {
-    id: "features",
-    title: "Features",
+    id: "Footer",
+    title: "Information",
   },
   {
-    id: "product",
-    title: "Product",
+    id: "Requests",
+    title: "TBD",
   },
   {
     id: "clients",
-    title: "Clients",
+    title: "TBD",
   },
 ];
 
@@ -94,7 +94,7 @@ export const footerLinks = [
     links: [
       {
         name: "Information",
-        link: "",
+        link: "https://github.com/TikoMyster/tiko-minecraft-server/blob/f035ffcf68273c548739b40021d828b6b2f657bb/README.md",
       },
       
       {
@@ -129,7 +129,7 @@ export const footerLinks = [
       },
       {
         name: "Become a Partner",
-        link: "",
+        link: "https://forms.gle/W6XMZJ8PKKLMnj5A7",
       },
     ],
   },
@@ -138,23 +138,23 @@ export const footerLinks = [
 export const socialMedia = [
   {
     id: "social-media-1",
-    icon: instagram,
-    link: "https://www.instagram.com/",
+    icon: github,
+    link: "https://github.com/TikoMyster",
   },
   {
     id: "social-media-2",
-    icon: facebook,
-    link: "https://www.facebook.com/",
+    icon: portfolio,
+    link: "https://tikomyster-portfolio.herokuapp.com",
   },
   {
     id: "social-media-3",
     icon: twitter,
-    link: "https://www.twitter.com/",
+    link: "https://twitter.com/TikoMyster",
   },
   {
     id: "social-media-4",
     icon: linkedin,
-    link: "https://www.linkedin.com/",
+    link: "https://www.linkedin.com/in/christopher-saechao-b446b914a/",
   },
 ];
 
